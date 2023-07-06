@@ -2,10 +2,3 @@
 .idea
 /shelf/
 /workspace.xml
-
-# Environments
-.env
-.venv
-env\
-venv\
-ENV\
