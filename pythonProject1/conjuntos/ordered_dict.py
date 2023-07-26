@@ -1,6 +1,8 @@
 """
 Modulo Collections: Ordered Dict
 
+https://docs.python.org/3/library/collections.html#collections.OrderedDict
+
 dicionario = {'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5}
 
 print(dicionario)
