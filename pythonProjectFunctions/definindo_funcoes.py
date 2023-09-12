@@ -55,6 +55,7 @@ de blocos.
 def diz_oi():
     print('Olá Mundo!')
 
+
 """
 OBS:
 
@@ -71,7 +72,6 @@ OBS:
 
 Para chamar qualquer funcao sempre colocar o parenteses no final da funcao 'diz_oi()'
 """
-
 
 
 def cantar_parabens():
